@@ -1,0 +1,12 @@
+{
+    "editor.fontSize":14,
+    "editor.lineHeight": 22,
+    "editor.cursorBlinking": "smooth",
+    "explorer.sortOrder": "type",
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    
+
+
+    
+}
